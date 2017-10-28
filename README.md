@@ -1,1 +1,1 @@
-echo # documents
+This directory contains all the documents required
